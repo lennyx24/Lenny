@@ -1,2 +1,3 @@
 # Lenny
-My Repository
+Hello there.
+-Currently studying AIN at HTWG Konstanz.
